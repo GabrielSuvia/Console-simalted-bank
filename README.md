@@ -1,2 +1,2 @@
-Comand to initializer to app
+command to initialize the app
 java SimulateBank.java
